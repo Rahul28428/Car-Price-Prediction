@@ -30,8 +30,8 @@ This project aims to predict car prices using machine learning. The model levera
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Rahul28428/Car-Price-Prediction
+   cd Car-Price-Prediction
    ```
 2. Install required packages:
 ```bash

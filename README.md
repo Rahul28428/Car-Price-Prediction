@@ -47,7 +47,7 @@ uvicorn main:app --reload
 ```bash
 streamlit run streamlit_app.py
 ```
-5. Deplying on GCP
+5. Deploying on GCP:
 Follow the steps in this youtube tutorial Video : <a href="https://www.youtube.com/watch?v=xcODUk0o6tU"> Link </a>
 
 ## Model Performance

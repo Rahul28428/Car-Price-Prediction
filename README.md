@@ -47,12 +47,12 @@ uvicorn main:app --reload
 ```bash
 streamlit run streamlit_app.py
 ```
-5. Deploying on GCP:
+5. Deploying on GCP: <br>
 Follow the steps in this youtube tutorial Video : <a href="https://www.youtube.com/watch?v=xcODUk0o6tU"> Link </a>
 
 ## Model Performance
 Best R2 Score: Approximately 91.81%
 
 ## Acknowledgements
-Dataset: <a href="https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset?select=cardekho.csv">cardekho.csv</a>
+Dataset: <a href="https://www.kaggle.com/datasets/sukhmandeepsinghbrar/car-price-prediction-dataset?select=cardekho.csv">cardekho.csv</a> <br>
 Tools: Google Colab, FastAPI, Streamlit, Google Cloud Platform
